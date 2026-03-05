@@ -1,0 +1,19 @@
+getters:
+Nivel tipo(tipo de variavel que vai retornar) nome da função (de preferencia "get" seguido pelo nome do atributo a ser retornado)(){
+	return this.atributo a ser retornado
+
+
+Definição de classe:
+Nivel class Nome da classe (letra maiuscula){
+	(atributos abaixo)
+	Nivel tipo Nome do atributo(letra minuscula);
+}
+
+
+Construtor:
+Nivel Objeto(Mesmo nome da classe) (variveis){
+	Objeto.atributo = varivel
+}
+
+Criador de objeto:
+Classe nome = new construtor(atributos);
