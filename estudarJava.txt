@@ -16,4 +16,15 @@ Nivel Objeto(Mesmo nome da classe) (variveis){
 }
 
 Criador de objeto:
+
 Classe nome = new construtor(atributos);
+
+Função:
+
+Nivel (pode ter 2 tipos de retorno) void ou (tipo de dado retornado) int, String, double nome da função {
+	codigo da função, exemplo:
+	a+b = c
+
+	(caso não seja "void" e tenha tipo de retorno, precisa de "return variavel a ser retornada(mesmo tipo declarado no incio da função)
+	return c;
+}
