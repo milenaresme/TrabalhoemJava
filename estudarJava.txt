@@ -1,5 +1,5 @@
 getters:
-Nivel tipo(tipo de variavel que vai retornar) nome da função (de preferencia "get" seguido pelo nome do atributo a ser retornado)(){
+public tipo(tipo de variavel que vai retornar) nome da função (de preferencia "get" seguido pelo nome do atributo a ser retornado)(){
 	return this.atributo a ser retornado
 
 
@@ -28,3 +28,4 @@ Nivel (pode ter 2 tipos de retorno) void ou (tipo de dado retornado) int, String
 	(caso não seja "void" e tenha tipo de retorno, precisa de "return variavel a ser retornada(mesmo tipo declarado no incio da função)
 	return c;
 }
+
