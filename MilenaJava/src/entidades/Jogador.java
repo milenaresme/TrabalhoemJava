@@ -10,7 +10,7 @@ public class Jogador {
 
 	private List<Personagem> personagens;
 	
-	//Construtor para criar novo item//
+	//Construtor para criar novo jogador//
 	public Jogador (String nickname, String senha) {
 		this.nickname =  nickname;
 		this.senha = senha;
