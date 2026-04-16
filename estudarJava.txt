@@ -12,7 +12,7 @@ Nivel class Nome da classe (letra maiuscula){
 
 Construtor:
 Nivel Objeto(Mesmo nome da classe) (variveis){
-	Objeto.atributo = varivel
+	this.atributo = varivel
 }
 
 Criador de objeto:
