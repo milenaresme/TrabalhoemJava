@@ -1,29 +1,29 @@
-getters:
+#getters:#
 public tipo(tipo de variavel que vai retornar) nome da função (de preferencia "get" seguido pelo nome do atributo a ser retornado)(){
 	return this.atributo a ser retornado
 
 
-Definição de classe:
+#Definição de classe:#
 Nivel class Nome da classe (letra maiuscula){
 	(atributos abaixo)
 	Nivel tipo Nome do atributo(letra minuscula);
 }
 
-Definição de interface:
+#Definição de interface:#
 Nivel interface nome da classe{
 	nivel tipo de retorno nome do metodo();
 }
 
-Construtor:
+#Construtor:#
 Nivel Objeto(Mesmo nome da classe) (variveis){
 	this.atributo = varivel
 }
 
-Criador de objeto:
+#Criador de objeto:#
 
 Classe nome = new construtor(atributos);
 
-Função:
+#Função:#
 
 Nivel (pode ter 2 tipos de retorno) void ou (tipo de dado retornado) int, String, double nome da função {
 	codigo da função, exemplo:
@@ -33,8 +33,8 @@ Nivel (pode ter 2 tipos de retorno) void ou (tipo de dado retornado) int, String
 	return c;
 }
 
-Herança Simples:
+#Herança Simples:#
 public class nome da classe extends nome da classe pai{
 
-Interface:
+#Interface:#
 public class nome da classe implements nome da classe pai{
