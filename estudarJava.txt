@@ -9,6 +9,10 @@ Nivel class Nome da classe (letra maiuscula){
 	Nivel tipo Nome do atributo(letra minuscula);
 }
 
+Definição de interface:
+Nivel interface nome da classe{
+	nivel tipo de retorno nome do metodo();
+}
 
 Construtor:
 Nivel Objeto(Mesmo nome da classe) (variveis){
@@ -29,3 +33,8 @@ Nivel (pode ter 2 tipos de retorno) void ou (tipo de dado retornado) int, String
 	return c;
 }
 
+Herança Simples:
+public class nome da classe extends nome da classe pai{
+
+Interface:
+public class nome da classe implements nome da classe pai{
